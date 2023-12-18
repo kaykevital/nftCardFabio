@@ -1,3 +1,3 @@
 # nftCard
  
-# https://github.com/kaykevital/nftCard.git
+# https://github.com/kaykevital/nftCardFabio.git
